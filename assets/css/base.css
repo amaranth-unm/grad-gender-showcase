@@ -21,96 +21,64 @@ PAGE SETUP & CUSTOMIZATION
 }
 
   :root {
-  /* ===== NAMED COLORS - Friendly Modern Palette ===== */
-  /* Sage/green family (lightest to darkest) */
-  --sage-pale: #b2cdbc;    /* Lightest sage tint */
-  --sage: #6b8e7f;         /* Primary sage green */
-  --sage-deep: #3d4e42;    /* Deep sage */
-  --sage-dark: #2d3e35;    /* Darkest sage, almost black */
+  /* ===== NAMED COLORS - Flier-Inspired Palette ===== */
+  /* Warm background / neutrals */
+  --blush-page: #f3e1db;        /* Main blush background from flier */
+  --blush-light: #f8ece8;       /* Lighter blush for cards/sections */
+  --cream: #fff7f1;             /* Soft cream for contrast areas */
+  --rose-mist: #e9c9cf;         /* Muted rosy neutral */
 
-  /* Warm neutrals */
-  --warm-white: #f5f3f0;   /* Warm off-white */
-  --warm-light: #e8e4df;   /* Light warm tone for cards */
-  --golden-wash: #f5ece0;  /* Very light golden tint for special sections */
+  /* Gold / yellow family */
+  --gold-bright: #f2b705;       /* Main headline gold */
+  --gold-warm: #e0a12b;         /* Slightly deeper gold */
+  --gold-deep: #b8791f;         /* Earthier gold for headings/borders */
 
-  /* Accent colors */
-  --golden-clay: #b8956a;  /* Warm clay */
-  --golden-clay-dark: #8b6f47;  /* Darker warm clay for headings */
-  --amber: #f59e0b;        /* Bright amber */
+  /* Aqua / teal family */
+  --aqua: #72cfd0;              /* Main aqua from headline/graphics */
+  --aqua-soft: #a9e3e1;         /* Light aqua tint */
+  --teal-deep: #2f8f93;         /* Darker teal for emphasis */
+
+  /* Pink / coral accents */
+  --coral: #ef6f86;             /* Bright pink-coral accent */
+  --pink-soft: #f3a7b5;         /* Softer pink from disco ball/details */
+  --berry: #a64a68;             /* Deeper rosy accent */
+
+  /* Dark text tones */
+  --ink: #2a2220;               /* Main body text */
+  --brown-warm: #8a5a3c;        /* Warm brown from poster text box */
+  --plum-deep: #5f3b86;         /* Purple outline accent from arch */
 
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: var(--warm-white);
-  --bg-card: var(--warm-light);
-  --bg-accent: var(--golden-wash);
-  --bg-code: var(--sage-pale);
-  --bg-nav: var(--sage);
+  --bg-page: var(--blush-page);
+  --bg-card: var(--cream);
+  --bg-accent: var(--blush-light);
+  --bg-code: var(--aqua-soft);
+  --bg-nav: var(--aqua);
 
   /* Text */
-  --text-body: var(--sage-dark);
-  --text-on-dark: var(--warm-white);
-  --text-muted: #666;
+  --text-body: var(--ink);
+  --text-on-dark: var(--cream);
+  --text-muted: #6f625c;
 
   /* Accents & Interactive */
-  --accent-primary: var(--sage);
-  --accent-border: var(--golden-clay);
-  --interactive-hover: var(--amber);
+  --accent-primary: var(--aqua);
+  --accent-border: var(--gold-warm);
+  --interactive-hover: var(--coral);
 
   /* Status colors */
-  --success: #28a745;
-  --warning: #ffc107;
-  --warning-bg: #fff3cd;
-  --error: #dc3545;
-  --info: #5b9aa0;
+  --success: #2f8f68;
+  --warning: var(--gold-bright);
+  --warning-bg: #fff4cc;
+  --error: #d94b63;
+  --info: var(--teal-deep);
 
-  /* Heading colors — override these in themes to change heading hierarchy */
-  --text-h1: var(--golden-clay);
-  --text-h2: var(--sage);
-  --text-h3: var(--sage-deep);
-  --text-h4: var(--sage-dark);
-  --text-h5: var(--golden-clay-dark);
-
-  /* Utility */
-  --overlay-dark: rgba(0, 0, 0, 0.8);
-  --white: #ffffff;
-  --border-light: rgba(0, 0, 0, 0.1);
-  --border-on-dark: rgba(255, 255, 255, 0.2); /* Borders/dividers on dark backgrounds */
-  --accent-primary-dark: var(--sage-deep);     /* Darker accent for active/selected states */
-
-  /* Shadows */
-  --shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.08);
-  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 4px 12px rgba(0, 0, 0, 0.1);
-  --shadow-hover: 0 4px 12px color-mix(in srgb, var(--interactive-hover) 40%, transparent);
-
-  /* Fonts */
-  --font-heading: 'Inter', sans-serif;
-  --font-body: 'Source Sans 3', sans-serif;
-  --font-serif: 'Lora', serif;
-  --font-mono: 'Fira Mono', 'Consolas', 'Menlo', monospace;
-
-  /* Spacing */
-  --spacing-xs: 0.5rem;
-  --spacing-sm: 1rem;
-  --spacing-md: 1.5rem;
-  --spacing-lg: 2rem;
-  --spacing-xl: 3rem;
-
-  /* Border radius */
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 12px;
-
-  /* Transitions */
-  --transition-fast: 0.15s ease;
-  --transition-normal: 0.3s ease;
-  --transition-slow: 1s ease-in-out;
-
-  /* Footer */
-  --bg-footer: var(--sage);
-  --bg-footer-bottom: var(--sage-deep);
-  --text-footer-link: var(--warm-white);
-  --text-footer-bottom: var(--sage-pale);
+  /* Heading colors */
+  --text-h1: var(--gold-bright);
+  --text-h2: var(--teal-deep);
+  --text-h3: var(--brown-warm);
+  --text-h4: var(--ink);
+  --text-h5: var(--berry);
 }
 
 
