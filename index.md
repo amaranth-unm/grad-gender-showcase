@@ -2,8 +2,8 @@
 title: "Class Project Template"
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
-header-title: Southwestern Food
+header-image: "/assets/images/grad-showcase-header.png"
+header-title: UNM Gender Showcase
 header-subtitle: a class project template
 header-position: 35% center
 ---
