@@ -51,30 +51,22 @@
   -->
 
   {% if page.layout == 'scrollstory' %}
-  <link href="{{site.baseurl}}/assets/css/scrollstory.css" rel="stylesheet">
-  {% endif %}
-
-  <!-- docs CSS - consistent table column widths for /docs/ pages -->
-  {% if page.url contains '/docs/' %}
-  <link href="{{site.baseurl}}/assets/css/docs.css" rel="stylesheet">
-  {% endif %}
-
-  <!-- Page header CSS: loaded when page has a header image -->
-  {% if page.header-image %}
-  <link href="{{site.baseurl}}/assets/css/page-header.css" rel="stylesheet">
-  {% endif %}
-
-  <!-- Search CSS (loaded when search is enabled in _config.yml) -->
-  {% if site.search %}
-  <link href="{{site.baseurl}}/assets/css/search.css" rel="stylesheet">
-  {% endif %}
-
-  <!-- page specific CSS -->
-  <!-- individual pages can specify a css file in the YAML header with
-    css: my_styles.css
-  -->
-  {% if page.css %}
-  <link href="{{site.baseurl}}/assets/css/{{page.css}}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/scrollstory.css' | relative_url }}">
   {% endif %}
   
+  {% if page.url contains '/docs/' %}
+  <link rel="stylesheet" href="{{ '/assets/css/docs.css' | relative_url }}">
+  {% endif %}
+  
+  {% if page.header-image %}
+  <link rel="stylesheet" href="{{ '/assets/css/page-header.css' | relative_url }}">
+  {% endif %}
+  
+  {% if site.search %}
+  <link rel="stylesheet" href="{{ '/assets/css/search.css' | relative_url }}">
+  {% endif %}
+  
+  {% if page.css %}
+  <link rel="stylesheet" href="{{ '/assets/css/' | append: page.css | relative_url }}">
+  {% endif %}
 </head>
