@@ -7,15 +7,15 @@
 
   <meta name="description" content="{{ page.summary | default: 'Xanthan is a free, open-source website template for digital scholarship, portfolios, and scrollytelling narratives.' | escape }}">
   <meta name="author" content="">
-  <link rel="icon" href="{{site.baseurl}}/favicon.ico">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Open Graph for social sharing -->
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
   <meta property="og:description" content="{{ page.summary | default: 'Xanthan is a free, open-source website template for digital scholarship, portfolios, and scrollytelling narratives.' | escape }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
   {% if page.thumbnail or page.header-image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.dir }}{{ page.thumbnail | default: page.header-image }}">
+  <meta property="og:image" content="{{ page.thumbnail | default: page.header-image | absolute_url }}">
   {% endif %}
 
   <!-- Font Awesome for icons -->
@@ -31,14 +31,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4/dist/css/splide.min.css">
 
   <!-- Base CSS -->
-  <link href="{{site.baseurl}}/assets/css/base.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/cards.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/backgrounds.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/typography.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/nav.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/nav-left.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/nav-profile.css" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/workshop.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/backgrounds.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/typography.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/nav.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/nav-left.css' | relative_url }}">
 
   <!--
     Alternate theme CSS that overrides bases above. 
