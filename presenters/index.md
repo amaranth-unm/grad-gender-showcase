@@ -8,7 +8,7 @@ layout: base
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'presenters/'" | where_exp: "p", "p.path != 'presenters/index.md'" %}
 
-{% include nav/card-toc-compact.html cards=cards %}
+{% include nav/card-grid.html cards=cards %}
 
 <br style="clear: both">
 <br style="clear: both">
