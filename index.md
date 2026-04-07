@@ -1,9 +1,9 @@
 ---
-title: "GRAD SHOWCASE FOR GENDER WORKS-IN-PROGRESS"
+title: "Grad Showcase for Gender Works-in-Progress"
 layout: base
 date: 2026-04-07
 header-image: "/assets/images/grad-showcase-header.png"
-header-title: Grad Showcase for Gender Works-in-Progress
+header-title: GRAD SHOWCASE FOR GENDER WORKS-IN-PROGRESS
 header-subtitle: Hosted by the Department of History, the History Graduate Student Association, and the Women, Gender, and Sexuality Studies Program (WGSS) 
 header-position: 35% center
 ---

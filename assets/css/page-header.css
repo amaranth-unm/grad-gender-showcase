@@ -102,7 +102,7 @@ if you want a different accent color just for headers.
 .page-header h1 {
   font-family: var(--font-heading);
   font-size: clamp(3.2rem, 7vw, 5.5rem);
-  color: var(--ink);
+  color: var(--berry);
   line-height: 1.05;
   margin-bottom: 0.6rem;
   margin-top: 0;
@@ -385,22 +385,6 @@ if you want a different accent color just for headers.
   opacity: 0.25;
 }
 
-/* --- Filter: Photo (default)
-     saturate(1.05) gives a slight color lift; brightness(0.85) darkens for legibility.
-     Tune opacity up if image is too faint, down if text becomes hard to read. --- */
-.page-header-bg--photo {
-  filter: saturate(1.05) brightness(0.85);
-  mix-blend-mode: normal;
-  opacity: 0.80;
-}
-
-.page-header--section .page-header-bg--photo {
-  opacity: 0.72;
-}
-
-.page-header--banner .page-header-bg--photo {
-  opacity: 0.50;
-}
 
 
 /* =====================================================
