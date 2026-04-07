@@ -17,3 +17,30 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 
 ---
 # Yixin Zhang
+
+
+{::nomarkdown}
+</div> <!-- close main container -->
+
+<div class="section-alt">
+  <div class="container">
+{:/nomarkdown}
+
+{% include images/figure.html
+class="left"
+width="20%"
+image-path="images/grad-showcase-header.png"
+%}
+
+**Yixin Zhang**
+
+
+
+{::nomarkdown}
+  </div>
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
+<div class="container"> <!-- reopen main container -->
+{:/nomarkdown}
