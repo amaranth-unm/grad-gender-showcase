@@ -135,8 +135,8 @@ PAGE SETUP & CUSTOMIZATION
   --transition-slow: 1s ease-in-out;
 
   /* Footer */
-  --bg-footer: var(--sage);
-  --bg-footer-bottom: var(--sage-deep);
+  --bg-footer: #6b2f4a;
+  --bg-footer-bottom: #6b2f4a;
   --text-footer-link: var(--warm-white);
   --text-footer-bottom: var(--sage-pale);
 }
