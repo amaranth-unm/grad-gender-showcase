@@ -5,11 +5,20 @@ layout: base
 
 # Presenters
 
-Every class project site needs an About page. This one is yours to write.
+{% assign all_pages = site.pages %}
+{% assign cards = all_pages | where_exp: "p", "p.path contains 'presenters/'" | where_exp: "p", "p.path != 'presenters/index.md'" %}
 
-A good About page tells visitors what the project is, who made it, and why it exists. For a collaborative course project, that usually means: the course name and term, a sentence or two about the research question or theme, the names of contributors, and any acknowledgments you want to include. It can be a paragraph or several — whatever fits your project.
+{% include nav/card-grid.html cards=cards %}
 
-This placeholder text is here so you can see the page working before you've written anything. When you're ready, open `about.md` in your editor, delete everything below the front matter, and write your own version.
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
 
 ---
 
