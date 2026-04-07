@@ -1,9 +1,28 @@
 ---
 title: "Poster Session"
 layout: base
-header-image: images/grad-showcase-header.png
 thumbnail: images/grad-showcase-header.png
 summary: Marisa Pickett, Gina Benavidez, Jessica Pereira
 ---
 
-## Presentation Title
+## Poster Session: Challenging Historical Narratives and Empowering Historical Voices
+
+<br style="clear: both">
+<br style="clear: both">
+
+---
+# Marisa Pickett
+
+
+---
+# Gina Benavidez
+
+
+---
+# Jessica Pereira
+
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
