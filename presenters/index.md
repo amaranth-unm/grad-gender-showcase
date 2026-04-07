@@ -1,9 +1,9 @@
 ---
-title: Presenters
+title: More About the Presenters
 layout: base
 ---
 
-# Presenters
+# More About the Presenters
 
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'presenters/'" | where_exp: "p", "p.path != 'presenters/index.md'" %}
