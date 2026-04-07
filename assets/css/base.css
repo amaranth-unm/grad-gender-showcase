@@ -85,7 +85,7 @@ PAGE SETUP & CUSTOMIZATION
   --shadow-hover: 0 4px 12px color-mix(in srgb, var(--interactive-hover) 40%, transparent);
 
   /* Fonts */
-  --font-heading: 'Montserat', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
   --font-body: 'Source Sans 3', sans-serif;
   --font-serif: 'Lora', serif;
   --font-mono: 'Fira Mono', 'Consolas', 'Menlo', monospace;
