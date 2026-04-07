@@ -39,37 +39,64 @@ PAGE SETUP & CUSTOMIZATION
   --golden-clay-dark: #8b6f47;  /* Darker warm clay for headings */
   --amber: #f59e0b;        /* Bright amber */
 
+  /* New colors for grad showcase */
+  /* Warm background / neutrals */
+  --blush-page: #f3e1db;        /* Main blush background from flier */
+  --blush-light: #f8ece8;       /* Lighter blush for cards/sections */
+  --cream: #fff7f1;             /* Soft cream for contrast areas */
+  --rose-mist: #e9c9cf;         /* Muted rosy neutral */
+
+  /* Gold / yellow family */
+  --gold-bright: #f2b705;       /* Main headline gold */
+  --gold-warm: #e0a12b;         /* Slightly deeper gold */
+  --gold-deep: #b8791f;         /* Earthier gold for headings/borders */
+
+  /* Aqua / teal family */
+  --aqua: #72cfd0;              /* Main aqua from headline/graphics */
+  --aqua-soft: #a9e3e1;         /* Light aqua tint */
+  --teal-deep: #2f8f93;         /* Darker teal for emphasis */
+
+  /* Pink / coral accents */
+  --coral: #ef6f86;             /* Bright pink-coral accent */
+  --pink-soft: #f3a7b5;         /* Softer pink from disco ball/details */
+  --berry: #a64a68;             /* Deeper rosy accent */
+
+  /* Dark text tones */
+  --ink: #2a2220;               /* Main body text */
+  --brown-warm: #8a5a3c;        /* Warm brown from poster text box */
+  --plum-deep: #5f3b86;         /* Purple outline accent from arch */
+
   /* ===== SEMANTIC COLOR SYSTEM ===== */
   /* Backgrounds */
-  --bg-page: var(--warm-white);
-  --bg-card: var(--warm-light);
-  --bg-accent: var(--golden-wash);
-  --bg-code: var(--sage-pale);
-  --bg-nav: var(--sage);
+  --bg-page: var(--blush-page);
+  --bg-card: var(--cream);
+  --bg-accent: var(--blush-light);
+  --bg-code: var(--aqua-soft);
+  --bg-nav: var(var--aqua);
 
   /* Text */
-  --text-body: var(--sage-dark);
-  --text-on-dark: var(--warm-white);
-  --text-muted: #666;
+  --text-body: var(var--ink);
+  --text-on-dark: var(--cream);
+  --text-muted: #6f625c;
 
   /* Accents & Interactive */
-  --accent-primary: var(--sage);
-  --accent-border: var(--golden-clay);
-  --interactive-hover: var(--amber);
+  --accent-primary: var(--aqua);
+  --accent-border: var(--gold-warm);
+  --interactive-hover: var(--coral);
 
   /* Status colors */
-  --success: #28a745;
-  --warning: #ffc107;
-  --warning-bg: #fff3cd;
-  --error: #dc3545;
-  --info: #5b9aa0;
+  --success: #2f8f68;
+  --warning: var(--gold-bright);
+  --warning-bg: #fff4cc;
+  --error: #d94b63;
+  --info: var(--teal-deep);
 
   /* Heading colors — override these in themes to change heading hierarchy */
-  --text-h1: var(--golden-clay);
-  --text-h2: var(--sage);
-  --text-h3: var(--sage-deep);
-  --text-h4: var(--sage-dark);
-  --text-h5: var(--golden-clay-dark);
+  --text-h1: var(--gold-bright);
+  --text-h2: var(--teal-deep);
+  --text-h3: var(--brown-warm);
+  --text-h4: var(--ink);
+  --text-h5: var(--berry);
 
   /* Utility */
   --overlay-dark: rgba(0, 0, 0, 0.8);
