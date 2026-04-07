@@ -1,14 +1,14 @@
 ---
-title: "Class Project Template"
+title: "Grad Showcase for Gender Works-in-Progress"
 layout: base
-date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
-header-title: Southwestern Food
-header-subtitle: a class project template
+date: 2026-04-07
+header-image: "/assets/images/grad-showcase-header.png"
+header-title: Grad Showcase for Gender Works-in-Progress
+header-subtitle: Hosted by the Department of History, the History Graduate Student Association, and the Women, Gender, and Sexuality Studies Program (WGSS) 
 header-position: 35% center
 ---
 
-# Your Class Project Name Goes Here
+# Grad Showcase for Gender Works-in-Progress
 
 This is your class project site, built with the [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. Your course topic and your students' writing go here.
 
