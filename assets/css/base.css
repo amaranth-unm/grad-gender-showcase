@@ -1,5 +1,6 @@
 /* Font imports - all fonts used throughout the site */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&display=swap');
@@ -84,7 +85,7 @@ PAGE SETUP & CUSTOMIZATION
   --shadow-hover: 0 4px 12px color-mix(in srgb, var(--interactive-hover) 40%, transparent);
 
   /* Fonts */
-  --font-heading: 'Inter', sans-serif;
+  --font-heading: 'Montserat', sans-serif;
   --font-body: 'Source Sans 3', sans-serif;
   --font-serif: 'Lora', serif;
   --font-mono: 'Fira Mono', 'Consolas', 'Menlo', monospace;
