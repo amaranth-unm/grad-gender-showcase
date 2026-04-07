@@ -1,9 +1,19 @@
 ---
 title: "Gendering Voices of Resistance and Resilience"
 layout: base
-header-image: images/grad-showcase-header.png
 thumbnail: images/grad-showcase-header.png
 summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 ---
 
-## Presentation Title
+## Gendering Voices of Resistance and Resilience: Unraveling Women's Stories of Bodily Autonomy and Reproductive Health
+
+
+---
+# Hadas Segal
+
+---
+# Selah Cantwell
+
+
+---
+# Yixin Zhang
