@@ -52,17 +52,15 @@ if you want a different accent color just for headers.
   inset: 0;
   background-size: cover;
   background-position: center right;
-  opacity: 0.28;
+  opacity: 1;
 }
 
 /* Subtle grid overlay for visual texture */
 .page-header-grid {
   position: absolute;
   inset: 0;
-  opacity: 0.025;
-  background-image:
-    linear-gradient(var(--header-grid-line) 1px, transparent 1px),
-    linear-gradient(90deg, var(--header-grid-line) 1px, transparent 1px);
+  opacity: 0;
+  background-image: none;
   background-size: 40px 40px;
 }
 
