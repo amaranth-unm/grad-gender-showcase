@@ -1,5 +1,5 @@
 ---
-title: "Grad Showcase for Gender Works-in-Progress"
+title: "GRAD SHOWCASE FOR GENDER WORKS-IN-PROGRESS"
 layout: base
 date: 2026-04-07
 header-image: "/assets/images/grad-showcase-header.png"
