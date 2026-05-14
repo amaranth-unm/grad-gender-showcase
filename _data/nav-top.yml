@@ -2,5 +2,5 @@
   url: "/about"
 - title: "Schedule"
   url: "/schedule"
-- title: "Presenters"
-  url: "/presenters"
+- title: "Sessions"
+  url: "/sessions"
