@@ -506,7 +506,7 @@ FOOTER
 
 footer {
   /* Display & Positioning */
-  margin-top: auto;
+  margin-top: 4rem;
 
   /* Typography */
   color: var(--text-on-dark);
