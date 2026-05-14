@@ -48,7 +48,7 @@ Beginning with Paulina Luisi, Uruguay’s first female physician, who in 1916 re
 
 {% capture timeline %}
 Utilizing gender and sexuality studies methodologies, this work applies feminist discourse analysis to reveal how gendered power dynamics shape rhetorical strategies. It examines women's strategic adherence to masculine/scientific norms (as seen in Luisi), the “cult of fetal personhood” that sidelines the pregnant woman, and contemporary rap as a space for resistant, embodied feminist rage.
-{% capture %}
+{% endcapture %}
 
 {% include images/figure-wrap.html
   image-position="right"
