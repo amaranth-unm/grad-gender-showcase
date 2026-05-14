@@ -17,7 +17,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 
 {% include images/figure-wrap.html
   class="left"
-  width="25%"
+  width="20%"
   caption="Hadas Segal, PhD Candidate in History"
   alt-text="Hadas Segal, PhD Candidate in History."
   image-path="images/picture-hadas.jpeg"
@@ -27,7 +27,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 
 {% include images/figure.html
   class="left"
-  width="35%"
+  width="15%"
   caption="Presentation title slide"
   alt-text="Presentation title slide."
   image-path="images/hs-presentation-1.png"
