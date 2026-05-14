@@ -18,7 +18,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
   width="30%"
   caption="Hadas Segal, PhD Candidate in History"
   alt-text="Hadas Segal, PhD Candidate in History."
-  image-path="/assets/images/picture-hadas.jpeg"
+  image-path="images/picture-hadas.jpeg"
 %}
 
 ## "Dead Men Don't Rape": Delilah Bon's Rap as a Battle Cry in the Arena of Women's Histories
@@ -28,7 +28,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
   width="40%"
   caption="Presentation title slide"
   alt-text="Presentation title slide."
-  image-path="/assets/images/hs-presentation-1.png"
+  image-path="images/hs-presentation-1.png"
 %}
 
 {% include images/figure.html
@@ -36,7 +36,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
   width="40%"
   caption="Timeline"
   alt-text="Timeline"
-  image-path="/assets/images/hs-presentation-2.png"
+  image-path="images/hs-presentation-2.png"
 %}
 
 
@@ -48,13 +48,28 @@ Beginning with Paulina Luisi, Uruguay’s first female physician, who in 1916 re
 Utilizing gender and sexuality studies methodologies, this work applies feminist discourse analysis to reveal how gendered power dynamics shape rhetorical strategies. It examines women's strategic adherence to masculine/scientific norms (as seen in Luisi), the “cult of fetal personhood” that sidelines the pregnant woman, and contemporary rap as a space for resistant, embodied feminist rage.
 
 
-<iframe width="972" height="547" src="https://www.youtube.com/embed/WoDfGmsZgKE" title="Dead Men Don&#39;t Rape - Delilah Bon (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="486" height="274" src="https://www.youtube.com/embed/WoDfGmsZgKE" title="Dead Men Don&#39;t Rape - Delilah Bon (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 ---
 # Selah Cantwell
 
+{% include images/figure.html
+  class="left"
+  width="30%"
+  caption="Selah Cantwell, PhD Student in History"
+  alt-text="Selah Cantwell, PhD Student in History."
+  image-path="images/s-cantwell.png"
+%}
+
+## Gentle Hands and Latex Gloves: Doctors, Parteras, and Childbirth in Early to Mid-Twentieth Century Northern New Mexico
+
+Early to mid-twentieth century New Mexico was a desert in the literal sense, but also a healthcare desert for many who lived across the state, particularly those who lived in rural areas and whose socioeconomic statuses did not permit them to pay for the services of a doctor. Many rural communities, particularly in northern New Mexico, also had long-standing traditions regarding health and well-being, including curanderismo, a form a traditional medicine among many New Mexican communities that combined spirituality, religion, herbal remedies (remedios), and knowledge passed down from generation to generation to help heal ailments among communities. 
+
+With the rise of the professionalization of medicine in the United States and New Mexico's new status as a state in 1912, parteras, or midwives who practiced curanderismo, faced doubt and questioning from members of the medical community on a national and state level, much of which appeared to be based in ethnocentrism and sexism. Eventually, this doubt resulted in the regulation of midwifery. This shift caused the development of complex relationships between doctors and parteras, and influenced New Mexico's healthcare. 
+
+Through the examination of language used in oral histories from four doctors and partera Jesusita Aragón, we can begin to see the ways these relationships functioned, and how connections between these healthcare providers resulted in better outcomes for mothers and babies. We can also see the contrasts evident in the attitudes of male doctors, a female doctor, and Jesusita- all of whom provide pieces of the same story in New Mexico's medical history- by using a gendered lens to analyze language and beliefs about midwives in early to mid-twentieth century northern New Mexico.
 
 ---
 # Yixin Zhang
