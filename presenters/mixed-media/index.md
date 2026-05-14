@@ -2,6 +2,8 @@
 title: "Mixed Media"
 layout: base
 thumbnail: images/grad-showcase-header.png
+header-image: "images/grad-showcase-header-2.png"
+header-height: 10vh
 summary: Katie Despeaux, Jonathan Seyfried, Zj Johnson, Chris Armstrong
 ---
 

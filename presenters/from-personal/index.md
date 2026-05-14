@@ -2,6 +2,8 @@
 title: "From Personal Loss to Political Power"
 layout: base
 thumbnail: images/grad-showcase-header.png
+header-image: "images/grad-showcase-header-2.png"
+header-height: 10vh
 summary: Teresa Rodriguez Sotelo, Rebecca Anderson, and Maryam Tadayon
 ---
 

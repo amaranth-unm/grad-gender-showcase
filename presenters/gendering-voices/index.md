@@ -16,8 +16,8 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 # Hadas Segal
 
 {% include images/figure-wrap.html
-  class="left"
-  width="20%"
+  image-position="left"
+  image-width="20%"
   caption="Hadas Segal, PhD Candidate in History"
   alt-text="Hadas Segal, PhD Candidate in History."
   image-path="images/picture-hadas.jpeg"
@@ -26,16 +26,16 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 ## "Dead Men Don't Rape": Delilah Bon's Rap as a Battle Cry in the Arena of Women's Histories
 
 {% include images/figure.html
-  class="left"
-  width="15%"
+  image-position="left"
+  image-width="15%"
   caption="Presentation title slide"
   alt-text="Presentation title slide."
   image-path="images/hs-presentation-1.png"
 %}
 
 {% include images/figure.html
-  class="right"
-  width="55%"
+  image-position="right"
+  image-width="55%"
   caption="Timeline"
   alt-text="Timeline"
   image-path="images/hs-presentation-2.png"
@@ -58,8 +58,8 @@ Utilizing gender and sexuality studies methodologies, this work applies feminist
 # Selah Cantwell
 
 {% include images/figure-wrap.html
-  class="left"
-  width="25%"
+  image-position="left"
+  image-width="25%"
   caption="Selah Cantwell, PhD Student in History"
   alt-text="Selah Cantwell, PhD Student in History."
   image-path="images/s-cantwell.png"

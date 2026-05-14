@@ -2,6 +2,8 @@
 title: "Poster Session"
 layout: base
 thumbnail: images/grad-showcase-header.png
+header-image: "images/grad-showcase-header-2.png"
+header-height: 10vh
 summary: Marisa Pickett, Gina Benavidez, Jessica Pereira
 ---
 
