@@ -2,6 +2,8 @@
 title: "Gendering Voices of Resistance and Resilience"
 layout: base
 thumbnail: images/grad-showcase-header.png
+header-image: "images/grad-showcase-header-2.png"
+header-height: 10vh
 summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 ---
 
@@ -13,7 +15,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 ---
 # Hadas Segal
 
-{% include images/figure.html
+{% include images/figure-wrap.html
   class="left"
   width="25%"
   caption="Hadas Segal, PhD Candidate in History"
@@ -25,7 +27,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 
 {% include images/figure.html
   class="left"
-  width="40%"
+  width="35%"
   caption="Presentation title slide"
   alt-text="Presentation title slide."
   image-path="images/hs-presentation-1.png"
@@ -55,15 +57,17 @@ Utilizing gender and sexuality studies methodologies, this work applies feminist
 ---
 # Selah Cantwell
 
-## Gentle Hands and Latex Gloves: Doctors, Parteras, and Childbirth in Early to Mid-Twentieth Century Northern New Mexico
-
-{% include images/figure.html
+{% include images/figure-wrap.html
   class="left"
   width="25%"
   caption="Selah Cantwell, PhD Student in History"
   alt-text="Selah Cantwell, PhD Student in History."
   image-path="images/s-cantwell.png"
 %}
+
+## Gentle Hands and Latex Gloves: Doctors, Parteras, and Childbirth in Early to Mid-Twentieth Century Northern New Mexico
+
+
 
 Early to mid-twentieth century New Mexico was a desert in the literal sense, but also a healthcare desert for many who lived across the state, particularly those who lived in rural areas and whose socioeconomic statuses did not permit them to pay for the services of a doctor. Many rural communities, particularly in northern New Mexico, also had long-standing traditions regarding health and well-being, including curanderismo, a form a traditional medicine among many New Mexican communities that combined spirituality, religion, herbal remedies (remedios), and knowledge passed down from generation to generation to help heal ailments among communities. 
 
