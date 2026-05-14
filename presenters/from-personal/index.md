@@ -23,8 +23,6 @@ summary: Teresa Rodriguez Sotelo, Rebecca Anderson, and Maryam Tadayon
   image-path="images/t-rodriguez-sotelo.jpeg"
 %}
 
-[**Teresa Rodriguez Sotel's website**](https://tsotelo99.github.io/portfolio/)
-
 ## Between the Personal and the Political: Women’s Mobilization through the Unión Nacional de Mujeres
 
 My paper examines the Unión Nacional de Mujeres Mexicanas (UNMM) as a key, though often overlooked, organization in the political mobilization of women in Mexico during the 1960s. Rooted in the activism of leftist women in the 1950s, the UNMM created a distinctive form of gender activism that challenged the boundaries between domestic life and political participation. The UNMM promoted participation and enabled its members to access political spaces within an authoritarian and anti-communist regime. UNMM members did not entirely reject gender roles, but rather strategically mobilized discourses on motherhood, family well-being, and peace to legitimize their political participation.  
@@ -32,6 +30,8 @@ My paper examines the Unión Nacional de Mujeres Mexicanas (UNMM) as a key, thou
 Historiographically, this paper contributes to studies of the "global 1960s" by challenging narratives that center on the political activism of students, unions, and male-dominated leftist organizations. This paper proposes that gender roles, such as motherhood, were not apolitical but rather constituted a crucial form of political action that influenced opposition to the authoritarian regime. By highlighting women's organizational practices, the paper reconsiders how women's political participation has been defined in Mexican historiography and argues for gender as a constitutive category of political analysis.  
 
 Based on UNMM bulletins and correspondence, as well as documents from the Dirección Federal de Seguridad, I show how the UNMM operated under constant state surveillance, while simultaneously framing its demands in seemingly innocuous humanitarian and maternal terms that nevertheless allowed for critiques of inequality, imperialism, and political repression. The organization brought together women from diverse social classes, regions, and generations, uniting their struggles around shared concerns. This platform opened space for their participation in the 1968 student movement, as increasing repression transformed demands centered on motherhood and family into a form of explicit political resistance. 
+
+[**Teresa Rodriguez Sotelo's website**](https://tsotelo99.github.io/portfolio/)
 
 ---
 # Rebecca Anderson

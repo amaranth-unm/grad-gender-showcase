@@ -15,13 +15,11 @@ summary: Marisa Pickett, Gina Benavidez, Jessica Pereira
 ---
 # Marisa Pickett
 
-[**Marisa's Portfolio website**](https://mpickett517.wixsite.com/thescholarmpickett)
-
 ## Black Art against Misogynoir
 
 {% include images/figure-wrap.html
-  image-position="right"
-  image-width="80%"
+  image-position="center"
+  image-width="95%"
   caption="Marisa Pickett's poster"
   alt-text="Marisa Pickett's poster."
   image-path="images/m-pickett-poster-rs.jpg"
@@ -51,7 +49,7 @@ James Tissot 'Portsmouth Dockyard' 1877|
 %}
 
 {% include images/carousel.html
-  width="80%"
+  width="95%"
   class="center"
   images=images
   headers=headers
@@ -62,6 +60,7 @@ Together, Himid and Boyce highlight the difficulties of navigating the British a
 
 For more detail about the British Black Arts Movement, see Marisa's thesis ["Color on Canvas in Black Britain and Black Germany"](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1389&context=hist_etds) 
 
+[**Marisa's Portfolio website**](https://mpickett517.wixsite.com/thescholarmpickett)
 
 ---
 # Gina Benavidez
@@ -69,8 +68,8 @@ For more detail about the British Black Arts Movement, see Marisa's thesis ["Col
 ## The Forgotten Contributors: American Women Medical Volunteers in the Spanish Civil War.
 
 {% include images/figure-wrap.html
-  image-position="right"
-  image-width="80%"
+  image-position="center"
+  image-width="95%"
   caption="Gina Benavidez's poster"
   alt-text="Gina Benavidez's poster."
   image-path="images/g-benavidez-poster-rs.jpg"
@@ -92,8 +91,8 @@ Through the use of correspondence, personal diary entries, propaganda pamphlets,
 ## “Look at my skin color; I am not part of your family”: Political Agency of a Domestic Workers’ Union in Rio de Janeiro from the 1970s to the 1980s.
 
 {% include images/figure-wrap.html
-  image-position="right"
-  image-width="80%"
+  image-position="center"
+  image-width="95%"
   caption="Jéssica Pereira's poster"
   alt-text="Jéssica Pereira's poster."
   image-path="images/j-pereira-poster.jpg"
