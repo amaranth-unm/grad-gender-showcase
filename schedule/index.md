@@ -33,7 +33,7 @@ header-position: 35% center
 *Intro comments: Katherine Massoth (History)*
 *Comment: Silas Grant (American Studies)*
 - Katie Despeaux (History): Digital Embodiments: Creation of a Medieval Pregnancy Source Database
-- Jonathan Seyfried (History): Molt Cara Companyona: Gender Nonconformity and Medieval Monarch
+- Jonathan Seyfried (History): Molt Cara Companyona: Gender Nonconformity and Medieval Monarchy
 - Zj Johnson (Communication and Journalism): Gender Glitch: Undressing Trans* Expression and Joy Through Fashion
 - Chris Armstrong (Sociology): Queer in Public. Queer in Collapse
 
