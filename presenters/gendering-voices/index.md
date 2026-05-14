@@ -25,7 +25,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
 
 ## "Dead Men Don't Rape": Delilah Bon's Rap as a Battle Cry in the Arena of Women's Histories
 
-{% include images/figure.html
+{% include images/figure-wrap.html
   image-position="left"
   image-width="15%"
   caption="Presentation title slide"
@@ -33,7 +33,7 @@ summary: Hadas Segal, Selah Cantwell, Yixin Zhang
   image-path="images/hs-presentation-1.png"
 %}
 
-{% include images/figure.html
+{% include images/figure-wrap.html
   image-position="right"
   image-width="55%"
   caption="Timeline"
