@@ -1,6 +1,8 @@
 ---
 title: More About the Presenters
 layout: base
+header-image: "assets/images/grad-showcase-header-2.png"
+header-height: 10vh
 ---
 
 # More About the Presenters
