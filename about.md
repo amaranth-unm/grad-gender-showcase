@@ -1,7 +1,7 @@
 ---
 title: About
 layout: base
-header-image: "assets/images/grad-showcase-header-2.png"
+header-image: "/assets/images/grad-showcase-header-2.png"
 header-height: 10vh
 ---
 

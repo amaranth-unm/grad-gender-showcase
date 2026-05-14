@@ -1,11 +1,11 @@
 ---
-title: More About the Presenters
+title: Sessions
 layout: base
 header-image: "/assets/images/grad-showcase-header-2.png"
 header-height: 10vh
 ---
 
-# More About the Presenters
+# Sessions
 
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'presenters/'" | where_exp: "p", "p.path != 'presenters/index.md'" %}
