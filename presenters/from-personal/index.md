@@ -18,8 +18,8 @@ summary: Teresa Rodriguez Sotelo, Rebecca Anderson, and Maryam Tadayon
 {% include images/figure-wrap.html
   image-position="left"
   image-width="25%"
-  caption="Selah Cantwell, PhD Student in History"
-  alt-text="Selah Cantwell, PhD Student in History."
+  caption="Teresa Rodriguez Sotelo"
+  alt-text="Teresa Rodriguez Sotelo."
   image-path="images/t-rodriguez-sotelo.jpeg"
 %}
 

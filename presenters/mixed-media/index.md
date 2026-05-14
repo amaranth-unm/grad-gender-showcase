@@ -73,7 +73,7 @@ By centering embodied self-styling as methodological practice, this project argu
   image-width="20%"
   caption="Chris Armstrong, M.Ed"
   alt-text="Chris Armstrong, M.Ed."
-  image-path="images/js-photo-3.jpeg"
+  image-path="images/CArmstrong-Headshot.PNG"
 %}
 
 ## Queer in Public. Queer in Collapse
