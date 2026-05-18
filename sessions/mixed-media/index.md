@@ -78,6 +78,12 @@ By centering embodied self-styling as methodological practice, this project argu
 
 ## Queer in Public. Queer in Collapse
 
+Queer in Public. Queer in Collapse. mobilizes queer theory and trans studies to interrogate the conditions under which visibility, recognition, and inclusion are produced as signs of progress amid intensifying carceral governance and institutional instability. Rather than treating queer as an identity category awaiting incorporation, this paper theorizes queer as a positional refusal - an orientation against normalization, respectability politics, and the regulatory logics that structure public life. Drawing from interventions in queer theory that destabilize the naturalization of gender, sexuality, and futurity, and from trans studies -  critiques of administrative legibility, biopolitical management, and state recognition, the project reframes public space as enforced space: a terrain shaped by surveillance, policing, zoning, border regimes, and the disciplining of gendered embodiment.
+
+Grounded in Community-Based Participatory Research (CBPR), the paper situates queer and trans communities as co-producers of theory, foregrounding embodied knowledge, relational accountability, and survival practices as analytic resources. It extends queer critiques of normativity by conceptualizing normalization as slow violence and develops trans studies - insights into legibility by examining how recognition can operate as governance rather than liberation. Through sustained attention to belonging, carcerality, and temporality, the project argues that inclusion without redistribution reinforces structural inequity, and that respectability functions as internalized regulation.
+
+Engaging queer temporalities and trans conceptions of embodiment, the paper advances "queer time" as a refusal of productivity metrics and linear progress narratives that obscure ongoing emergency. It concludes by articulating queer not as a stabilized identity but as a practice - an ongoing pressure that unsettles institutional capture and reorganizes collective survival within conditions of collapse. In doing so, the project reorients queer and trans studies toward material redistribution, embodied accountability, and relational modes of resistance.
+
 Digital Zine, [*queer in public, queer in collapse*](pdfs/CArmstrong queer in public.queer in collapse.pdf)
 
 [Presentation Slide Deck](pdfs/CArmstrong-Between presence and ruin-WGSS slide deck.pdf)
